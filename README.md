@@ -6,9 +6,11 @@ The objective of this project is to develop a predictive model for Bitcoin (BTC)
 
 The project encompasses the following goals:
 
-- **Factor Identification**: We will carefully analyze a diverse set of sentiment, financial, technical, and on-chain metrics to identify the most influential factors affecting the price of BTC. To understand these factors, we can gain deeper insights into the market dynamics.
-- **PGM Construction**: Using the identified factors, we will construct a sophisticated Probabilistic Graphical Model. This model will capture the complex relationships and dependencies among the factors, allowing us to predict accurately future BTC price movements.
-- **Performance Comparison**: To demonstrate the effectiveness of our PGM-based approach, we will compare its performance against a mean-reverting strategy. By evaluating and contrasting the outcomes of both approaches, we aim to showcase the viability and potential advantages of our predictive model.
+**Factor Identification**: We will carefully analyze a diverse set of sentiment, financial, technical, and on-chain metrics to identify the most influential factors affecting the price of BTC. By understanding these factors, we can gain deeper insights into the market dynamics.
+
+**PGM Construction**: Using the identified factors, we will construct a sophisticated Probabilistic Graphical Model. This model will capture the complex relationships and dependencies among the factors, allowing us to make accurate predictions about future BTC price movements.
+
+**Performance Comparison**:  To demonstrate the effectiveness of our approach, we will compare the performance of Markov Networks and Bayesian Networks in predicting prices. By evaluating and contrasting the results obtained from both models, our goal is to highlight the potential advantages and feasibility of each model in the context of swing trading.
 
 By achieving these objectives, we seek to provide traders and investors with a valuable tool for making informed decisions in the dynamic and volatile world of cryptocurrency trading.
 
